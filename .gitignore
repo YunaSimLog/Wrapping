@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+Wrapper/.vs
+Wrapper/Wrapper.vcxproj.filters
+Wrapper/x64
+UseWrapperForm/bin
+UseWrapperForm/obj
