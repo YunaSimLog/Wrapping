@@ -3,8 +3,12 @@
 using namespace System;
 
 namespace Wrapper {
-	public ref class Class1
+	public ref class MyArithmetic
 	{
-		// TODO: 여기에 이 클래스에 대한 메서드를 추가합니다.
+	public:
+		int Add(int a, int b);
+		int Subtract(int a, int b);
+		float Multiply(float a, float b);
+		float Divide(float a, float b);
 	};
 }
